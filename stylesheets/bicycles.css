@@ -1,0 +1,40 @@
+
+		#home_text {
+			margin:10px;
+			padding: 10px;
+			background-color: white;
+			background-image:linear-gradient(to right, white, #00ffff, blue);
+		}
+		
+		#content_view_bikes_available {
+			padding-top: 30px;
+		}
+		#bikes_table {
+			margin-top: 50px;
+			background-color: white;
+			border-collapse: collapse;
+			margin: 0 auto;
+		}
+		#bikes_table tr th, #bikes_table tr td {
+			padding: 10px;
+			border: 2px solid black;
+			text-align: center;
+		}
+		#bikes_table tr:first-child {
+			background-color: black;
+			color: white;
+			padding-top:5px;
+			padding-bottom: 5px;
+		}
+		#bikes_table tr:first-child th {
+			border-right: 2px solid white;
+		}
+		
+		#content_vba_bla {
+			padding: 10px;
+			width: 85%;
+			margin: auto;
+			background-color: white;
+			margin-bottom: 20px;
+		}
+		
